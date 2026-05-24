@@ -1,4 +1,4 @@
-## Adewale_Adeogun-Data_Analytics_Portfolio
+## Walestatistical
 This portfolio showcases my data analysis work experience and past data analytics projects in my professional practice.
 
 ### Brief Professional Profile
