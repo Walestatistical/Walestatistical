@@ -1,4 +1,4 @@
-## Walestatistical
+## My Work Bio-data
 This portfolio showcases my data analysis work experience and past data analytics projects in my professional practice.
 
 ### Brief Professional Profile
